@@ -1,0 +1,26 @@
+body{
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+.sidebar{
+  float:right;
+  background-color: yellow;
+  width: 50%;
+  height: 400px;
+}
+
+img{
+  display:block;
+  margin:auto;
+}
+
+p{
+  text-align: center;
+}
+
+
+h1{
+  text-align: center;
+}
